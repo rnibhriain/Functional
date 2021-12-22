@@ -3,7 +3,7 @@ module Ex02 where
 
 name, idno, username :: String
 name      =  "Róisín Ní Bhriain"  -- replace with your name
-idno      =  "18326577"    -- replace with your student id
+idno      =  " "    -- replace with your student id
 username  =  "rnibhria"   -- replace with your TCD username
 
 
